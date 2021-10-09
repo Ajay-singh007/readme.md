@@ -14,4 +14,4 @@
 
 
 
-<p align="left" style="padding:10px 10px 10px 10px"> <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshsharma002&show_icons=true&theme=synthwave" alt="Aashutoshsharma002" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aashutoshsharma002&show_icons=true&theme=synthwave" alt="Aashutoshsharma002" /></p>
+<p align="left" style="padding:10px 10px 10px 10px"> <img src="https://github-readme-stats.vercel.app/api?username=Ajay-singh007&show_icons=true&theme=synthwave" alt="Ajay-singh007" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-singh007&show_icons=true&theme=synthwave" alt="Ajay-singh007" /></p>
